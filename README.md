@@ -1,2 +1,2 @@
 # mescedia
-A Java based Open Source EDI integration application for processing most common EDI message formats such as UN/EDIFACT, CSV, XML, FIXED-LENGTH, etc. using open standards -> https://www.mescedia.org.
+A java based Open Source EDI Integration Server for processing most common EDI message formats such as UN/EDIFACT, CSV, XML, FIXED-LENGTH, a.s.o using open standards. 
